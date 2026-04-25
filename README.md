@@ -21,7 +21,7 @@ A simple and useful web app for kirana stores and small shop owners in India to 
 
 ## Live Demo
 
-[Click here to view the app](https://udhar-tracker.netlify.app)
+[[Click here to view the app](https://udhar-tracker.netlify.app)](https://udhar-tracker.netlify.app/)
 
 ## How to Run Locally
 
